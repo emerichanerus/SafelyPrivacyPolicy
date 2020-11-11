@@ -226,5 +226,3 @@ We do not charge a fee to process or respond to your verifiable request unless s
 
 Definitions and legal references
 Latest update: November 11, 2020
-
-iubenda hosts this content and only collects the Personal Data strictly necessary for it to be provided.
