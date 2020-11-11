@@ -21,6 +21,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 **Device permissions for Personal Data access**
+
 Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
 
 By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
